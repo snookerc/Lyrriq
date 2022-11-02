@@ -1,4 +1,4 @@
-using Lyrric.Data;
+using Lyrriq.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 

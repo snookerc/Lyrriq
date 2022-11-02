@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lyrric", "Lyrric\Lyrric.csproj", "{7B71D61B-FC43-4486-9987-2D8705200DCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lyrriq", "Lyrric\Lyrriq.csproj", "{7B71D61B-FC43-4486-9987-2D8705200DCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

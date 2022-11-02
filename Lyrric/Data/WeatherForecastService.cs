@@ -1,4 +1,4 @@
-namespace Lyrric.Data
+namespace Lyrriq.Data
 {
     public class WeatherForecastService
     {
